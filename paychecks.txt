@@ -1,0 +1,10 @@
+Paycheck 1: $123.0
+Paycheck 2: $123.0
+Paycheck 3: $213.0
+Paycheck 4: $123.0
+Paycheck 5: $412.0
+Paycheck 6: $950.0
+Paycheck 7: $373.0
+Paycheck 8: $850.0
+Paycheck 9: $393.0
+Paycheck 10: $393.0
